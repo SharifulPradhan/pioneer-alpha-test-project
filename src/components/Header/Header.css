@@ -1,0 +1,10 @@
+.header{
+  height: 338px;
+}
+
+
+.headerBG {
+  background: url(../../assets/headerBG.png);
+  background-position: center;
+  background-size: cover;
+}
